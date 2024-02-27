@@ -10,6 +10,21 @@ package com.mycompany.proyectoejemplo;
  * @author juanp
  */
 
+class A
+ {
+  public int at1;
+
+  public A()
+  {
+   this.at1 = 1;
+  }
+
+  public void ver_datos()
+  {
+   System.out.println("atributo1 = " + this.at1;
+  }
+ }
+
 public class ProyectoEjemplo 
 {
  
