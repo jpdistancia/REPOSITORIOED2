@@ -21,7 +21,7 @@ class A
 
   public void ver_datos()
   {
-   System.out.println("atributo1 = " + this.at1;
+   System.out.println("atributo1 = " + this.at1);
   }
  }
 
